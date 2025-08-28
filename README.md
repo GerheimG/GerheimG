@@ -14,7 +14,4 @@
 
 ---
 
-
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GerheimG&show_icons=true&theme=tokyonight)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GerheimG&layout=compact&theme=tokyonight)
